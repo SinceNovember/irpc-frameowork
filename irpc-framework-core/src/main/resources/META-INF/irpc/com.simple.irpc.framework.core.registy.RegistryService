@@ -1,0 +1,1 @@
+zookeeper=com.simple.irpc.framework.core.registy.zookeeper.ZookeeperRegister
